@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Placement_Application"
+                   namespace="Placement_Application">
+
+  <class name="Entity_CompanyDetails" table="placeme_company_details" lazy="true">
+    <id name="compDetailsId" column="COMP_DETAILS_ID">
+      <generator class="hilo" >
+        <param name="table">placeme_mynextkey</param>
+        <param name="column">COMP_BATCH_NEXT_VALUE</param>
+        <param name="max_lo">0</param>
+      </generator>
+    </id>
+    <property name="staffId" column="STAFF_ID"></property>
+    <property name="status" column="STATUS"></property>
+    <property name="DOR" column="DOR"></property>
+    <property name="type" column="TYPE"></property>
+    <property name="host" column="HOST"></property>
+    <component name="myConfigObj">
+      <property name="currentBatch" column="BATCH"/>
+      <property name="currentDegree" column="DEGREE"/>
+    </component>
+    <many-to-one name="companyObj" column="COMPANY_ID" not-null="true">
+      </many-to-one>
+    
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Placement_Application"
+                   namespace="Placement_Application">
+
+  <class name="Entity_TempData" table="placeme_tempdata" lazy="true">
+    <id name="studentId" column="STUDENT_ID"></id>
+    <property name="collegeId" column="COLLEGE_ID"></property>
+  </class>
+</hibernate-mapping>

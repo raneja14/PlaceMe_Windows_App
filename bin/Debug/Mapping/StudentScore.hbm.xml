@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Placement_Application"
+                   namespace="Placement_Application">
+
+  <class name="Entity_StudentScore" table="placeme_studentscore" lazy="true">
+    <id name="studentId" column="STUDENT_ID"></id>
+    <property name="collegeId" column="COLLEGE_ID"></property>
+    <property name="X" column="X"></property>
+    <property name="XII" column="XII"></property>
+    <property name="diploma" column="DIPLOMA"></property>
+    <property name="cgpa" column="CGPA" ></property>
+    <property name="arrears" column="ARREARS"></property>
+   
+  </class>
+
+</hibernate-mapping>

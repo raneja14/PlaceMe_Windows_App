@@ -1,0 +1,101 @@
+﻿namespace Placement_Application
+{
+    class Constant
+    {
+        public const string EXCEPTION = "Some error occured";
+        public const string UNIQUE_KEY_EXCEPTION = "Record with same\nidentifieralready exists";
+        public const string DUPLICATE_COMPANY = "This company for the current\nbatch already exists";
+        public const string SAVE_SUCCESS = "Record Saved Successfully !!";
+        public const string UPDATE_SUCCESS = "Record Updated Successfully !!";
+        public const string DELETE_SUCCESS = "Record Deleted Successfully !!";
+        public const string UPLOAD_SUCCESS = "Data Uploaded Successfully !!";
+        public const string UPLOAD_FAILED = "Data Upload Failed !!";
+        public const string DATA_EXISTS = "Data already Exists !!";
+        public const string FILE_EMPTY = "Empty File !!";
+        public const string NULL_RESULT = "No Data Found";
+        public const string INVALID_CREDENTIALS = "Invalid Credentials !!";
+        public const string ACCOUNT_LOCKED = "Your account is deactivated!\nKindly contact admin ";
+        public const string MESSAGE_LOGOUT = "I wish to logout now !!";
+        public const string MESSAGE_EXIT = "I wish to exit now !!";
+        public const string TIME_FORMAT = "hh:mm:ss tt";
+        public const string DATE_FORMAT = "dd MMM,yy";
+        public const string UPDATE_SUCCESS_DETAILS = "Details Updated Successfully !!";
+        public const string UPDATE_SUCCESS_PASSWORD = "Password Updated Successfully !!";
+        public const string CONFIRM_SAVE = "Do you want to save changes ?";
+        public const string MESSAGE_NO_DATA= "No records found..";
+        public const string ENUM_COMPANY_TYPE = "comp_type";
+        public const string ENUM_COMPANY_STATUS = "comp_status";
+        public const string ENUM_STATS_MONTH = "stat_month";
+        public const string NOT_APPLICABLE = "N.A";
+        public const string TOOLTIP_FOUND = "FOUND";
+        public const string TOOLTIP_TYPE_INFO = "INFO";
+        public const string TOOLTIP_TYPE_WARNING = "WARNING";
+        public const string TOOLTIP_TYPE_GENERAL = "GENERAL";
+        public const string TOOLTIP_GENERATE_MESSAGE = "Generate Message";
+        public const string DB_CONFIRM_OPERATION = "Do you really want to\nperform this operation ??";
+        public const string NOTIFICATION_CONFIRM_CONTINUE_CRITERIA = "Do you want to continue\nwith selected criteria ?";
+        public const string NOTIFICATION_CONFIRM_CONTINUE_LIST = "Do you want to continue\nwith selected list ?";
+        public const string NOTIFICATION_CONFIRM_CONTINUE_MESSAGE = "Do you want to continue\nwith generated message ?";
+        public const string NOTIFICATION_CONFIRM_CONTINUE_NOTIFY = "Do you want to notify now ?";
+        public const string NOTIFICATION_NOTIFY_SUCCESS = "Students will be notified shortly..\nTHANK YOU !!";
+        public const string NOTIFICATION_NOTIFIED_SUCCESS = "Students have been notified\nsuccessfully!!";
+        public const string NO_STUDENT_TO_NOTIFY = "No student found to notify!!";
+        public const string NOTIFY_GLITCH = "Some problem has occured.\nTry again later!! ";
+        public const string NOTIFICATION_OTP_VERIFIED = "Verified Successfully";
+        public const string NOTIFICATION_OTP_DECLINED = "Wrong code entered";
+        public const string BUTTON_ACTIVE = "ACTIVE";
+        public const string BUTTON_VISITED = "VISITED";
+        public const string BUTTON_DISABLED = "DISABLED";
+        public const string MSG_ITEM_COMPANY_NAME = "[ITEM_COMPANY]";
+        public const string MSG_ITEM_VENUE = "[ITEM_VENUE]";
+        public const string MSG_ITEM_DATE = "[ITEM_DATE]";
+        public const string MSG_ITEM_TIME = "[ITEM_TIME]";
+        public const string MSG_ITEM_HOME_COLLEGE = "[ITEM_HOME]";
+        public const string MSG_PRODUCT_EXPIRY = "[EXPIRY_DAYS]";
+        public const string IDENTIFIER_STUDENT = "STUDENT";
+        public const string IDENTIFIER_COMPANY = "COMPANY";
+        public const string MISSING_CONFIGURATION = "Current Batch/Degree needs to be\nconfigured from settings panel...";
+        public const string HINT_CONGIFURE_HERE = "Configure here ...";
+        public const string HINT = "HINT !!";
+        public const string REQUEST_UNDER_PROCESS = "A similar request is already\nunder process !!";
+        public const string NO_COMPANY_TO_NOTIFY = "No upcoming company to notify !!";
+        public const string MAIL_SENT = "Your feedback is delievered to us.\nWe will get back to you shortly.";
+        public const string MAIL_UNSENT = "Request could not be processed due to\nnetwork issue.Please try again later.";
+        public const string RECOVERY_MAIL_SUCCESS = "A recovery mail has been sent\nto your registered email address";
+        public const string NEW_USER_MAIL_SUCCESS = "Login Credentials has been sent\nto you and new user's email address";
+        public const string MAIL_UNSENT_NETWORK_ISSUES = "We tried sending you credentials via email\nbut could not,due to network issues";
+        public const string RECOVERY_STAFF_NAME = "[STAFF_NAME]";
+        public const string RECOVERY_STAFF_ID = "[STAFF_ID]";
+        public const string RECOVERY_STAFF_PWD = "[STAFF_PWD]";
+        public const string MESSAGE_EXCEL_EXPORT = "Do you wish to export the data to\nexcel file?";
+        public const string EXCEL_WRITE_ERROR = "File could not be written completely.\nTry again later !!";
+        public const string USER_ACTIVE = "Activated";
+        public const string USER_DEACTIVE = "De-Activated";
+        public const string CONFIRM_USER_ACTIVE = "Do you want to activate the selected users ?";
+        public const string CONFIRM_USER_DEACTIVE = "Do you want to de-activate the\nselected users ?";
+        public const string CONFIRM_USER_DELETE = "Do you want to delete the\nselected users ?";
+        public const string CONFIRM_COMPANY_DELETE = "Do you want to delete the\nselected companies ?";
+        public const string SUCCESS_ACTIVATION = "Users Activated Successfully !!";
+        public const string SUCCESS_DEACTIVATION = "Users De-Activated Successfully !!";
+        public const string SUCCESS_DELETE_USERS = "Users deleted Successfully !!";
+        public const string FAILED_DELETE_USERS = "Could not delete users.\nTry again later !";
+        public const string FAILED_DELETE_COMPANIES = "Could not delete companies.\nTry again later !";
+        public const string FAILED_ACTIVATION = "Could not activate users.\nTry again later !";
+        public const string FAILED_DEACTIVATION = "Could not deactivate users.\nTry again later !";
+        public const string USER_ADDED_SUCCESS = "User added successfully !!";
+        public const string USER_ADDED_FAILED = "Could not add user\n Try again later..";
+        public const string PASSWORD_RESET_FAILED = "Could not reset the password\nTry again later..";
+        public const string REQUEST_UNPROCESSED = "Could not process the request\nTry again later..";
+        public const string LOGTYPE_ERROR="LOG_ERROR";
+        public const string LOGTYPE_INFO = "LOG_INFO";
+        public const string PERSISTENCE_METHOD_SUCCESS = " method successfully executed at persistence layer";
+        public const string METHOD_ENTER = "Entering method ";
+        public const string METHOD_EXIT = "Exiting method ";
+
+        public const int DB_GET_COLLEGE_ID = 1;
+        public const int DB_INSERT_STUDENT_DATA = 13;
+        public const int DB_UPDATE_STUDENT_DATA = 3;
+    
+    
+    }
+}

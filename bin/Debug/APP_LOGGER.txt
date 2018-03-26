@@ -1,0 +1,3974 @@
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:20.3368659
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:22.5168780
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:29.8267333
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:29.8758251
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:34.2438759
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:34.3279543
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:39.6269213
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:39.7900747
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:41.8800351
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:41.8910446
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:46.4744074
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:46.4983659
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:50.2929223
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:50.3059353
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:50.3259536
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:55.8831640
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:56.1944567
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:56.2184800
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:58.9790952
+CONTENT:: Entering method getNotificationCount(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:37:59.0811678
+CONTENT:: getNotificationCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:00.4354332
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:00.4984928
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:07.8153980
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:07.8333715
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:12.2064712
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:12.2204843
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.7942729
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.8092870
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.8202973
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.8743500
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.8853891
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9364062
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9464160
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9614297
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9724400
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9854542
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:24.9964621
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0124792
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0234875
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0365013
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0475104
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0605242
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0705324
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:38:25.0855910
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:26.7533694
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:28.2577792
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:29.7882146
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:29.8232916
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:35.8478961
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:35.8639115
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:35.8899355
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:37.0270041
+CONTENT:: Entering method getNotificationCount(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:39:37.1041214
+CONTENT:: getNotificationCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:10.6930882
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:12.2816214
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:14.0142010
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:14.0322187
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:14.0562405
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:19.9397588
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:20.0348929
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:42:20.0498620
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:09.0858403
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:10.5082019
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:11.3799902
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:11.3980075
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:11.4240327
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:15.8882185
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:15.9602853
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:15.9732987
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:16.0423619
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:20.4544989
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:20.5335731
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.2591911
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.2752069
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.2892200
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.3332609
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.3442704
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.3953207
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4063294
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4183423
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4293527
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4453652
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4563760
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4733919
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4854032
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.4984158
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.5094265
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.5244398
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.5374812
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 14/11/2016 00:00:00
+TIME:: 20:43:22.5524661
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:11:36.1920680
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:11:39.1296007
+CONTENT:: Unable to connect to any of the specified MySQL hosts.
+INNER EXCEPTION:: No connection could be made because the target machine actively refused it 127.0.0.1:3306
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:12:03.9942057
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:12:04.8011666
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:12:11.1238232
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 22:12:11.1716947
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:07.6522954
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:09.5660832
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:12.6029237
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:12.6509950
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:53.5872354
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:14:55.0186213
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:15:27.8772904
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:15:29.3116802
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:16:06.3412492
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:16:07.7655786
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:16:44.7891890
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:16:46.1975347
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:16.6903695
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:18.0927221
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:31.6103161
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:31.6853843
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:43.3322732
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:21:43.4443784
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:34.7824609
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:36.1927784
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:41.1023660
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:41.1334209
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:42.9851285
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:42.9981390
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:47.1189900
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:47.1350074
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:23:47.1610297
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:05.3950748
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:05.9816872
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:05.9996404
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:16.3082771
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:16.3252930
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:16.3433119
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:18.4102421
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:18.4412715
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:18.4563297
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:18.5053305
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:24.7661841
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:24.8302460
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:31.5325086
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:31.5515272
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:37.9324914
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:24:37.9475054
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:26:56.5420669
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:26:57.9744505
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:04.2723816
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:04.2913994
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:30.3007142
+CONTENT:: Entering method addNewUser(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:30.8762522
+CONTENT:: addNewUser method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:31.0704329
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:28:31.0864759
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:26.9576798
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:26.9947123
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:31.9773702
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:32.0775072
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:37.1552106
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:37.3053509
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:38.7637142
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:38.7807322
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:29:38.8047899
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:12.5362854
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:12.5523008
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:12.5713182
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:33.3537456
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:33.3847762
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:30:33.3977871
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:32:19.3638461
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:32:19.3858663
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:28.9448933
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:28.9939821
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:29.0099525
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:29.0710112
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:34.9214787
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:33:34.9975494
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:53.3422328
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:53.3692581
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:55.1449180
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:55.1589319
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:58.0336188
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:39:58.0496338
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:36.1525211
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:37.5868631
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:41.3814083
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:41.3994268
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:52.2405609
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:52.2596248
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:43:52.2866481
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:13.5184534
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:14.9208077
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:18.3930070
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:18.4100237
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:18.4410523
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:34.3489249
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:34.4049753
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:34.4219924
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:47.5382541
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:54.6899385
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:54.7299755
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:54.7479935
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:44:54.8130544
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:34.3720138
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:35.7893833
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:37.1476081
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:37.1666262
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:37.2056627
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:41.9781237
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:42.0752149
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:42.0862272
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:46.3251882
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:46.4172735
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:49.1198007
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:49.1528312
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:49.1718489
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:49.2208956
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:55.3726456
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:55.3926639
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:59.2403073
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:56:59.4394874
+CONTENT:: getUnusedUsersList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:15.3272999
+CONTENT:: Entering method addNewUser(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:15.5765329
+CONTENT:: addNewUser method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:15.7787211
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:15.7937356
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:45.0440793
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:45.0580924
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:53.4479354
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:53.4719582
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.8160191
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.8380401
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.8550556
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.9051016
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.9181142
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.9631563
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.9761689
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:57.9911825
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0051972
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0182077
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0312219
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0682541
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0832702
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.0982830
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.1123407
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.1303604
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.1423238
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:57:58.1563871
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.1260495
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.1430666
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.1570785
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2041237
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2151356
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2581738
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2681848
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2791930
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.2902037
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3012136
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3112222
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3252357
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3352458
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3482588
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3582665
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3692768
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3792862
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 16/11/2016 00:00:00
+TIME:: 23:58:48.3912986
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:00.7229151
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:02.1092560
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:05.8386970
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:05.8877421
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.2500155
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.2830942
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.2980609
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.3681268
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.3811393
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.4411947
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.4532059
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.4692217
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.4812325
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.4962457
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5082578
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5252733
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5392864
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5573032
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5723168
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5863308
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.5993425
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:00:07.6173598
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:20.8608765
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:22.2881646
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.4762088
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.5092405
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.5242541
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.5863405
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.6003240
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.6623824
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.6763959
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.6974626
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.7154810
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.7344502
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.7494634
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.7674811
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.7875002
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.8025134
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.8175299
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.8325419
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.8445527
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:24.8575916
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:36.0500286
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:36.0790549
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:36.0960729
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:36.1461180
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:39.2950613
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:39.3901518
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:47.4616956
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:01:47.4827153
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:02:06.0130373
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:02:06.0340574
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:02:06.0580815
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:48:02.1665402
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 00:59:51.9310420
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 01:20:14.9333260
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to read data from the transport connection: net_io_connectionclosed.
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 01:23:52.4546685
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to read data from the transport connection: net_io_connectionclosed.
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:37:07.5376575
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:38:30.3610823
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:46:51.9299579
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:43.1059767
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:44.6895015
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:48.1086525
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:48.1266701
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:55.5456047
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:49:55.5876456
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:02.4510600
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:02.4680759
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:10.7878534
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:11.1872312
+CONTENT:: getUnusedUsersList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:21.8171642
+CONTENT:: Entering method deleteUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:22.4207297
+CONTENT:: deleteUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:22.6459398
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:22.6629565
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:30.0698806
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:30.1389440
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:32.9535751
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:32.9765962
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:33.7693397
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:33.8153800
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:35.6851278
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:35.7061475
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:38.8590949
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:38.8741094
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:46.8815953
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:46.8996121
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:46.9286389
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:56.3314288
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:56.4085012
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:58.5545073
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:58.5865369
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:58.6085575
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:50:58.6656112
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:04.1657532
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:04.1957809
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:04.2238067
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:04.2818610
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.5298321
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.5538549
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.5738744
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.6219194
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.6349299
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.6929846
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7059967
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7220129
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7340246
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7470359
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7580474
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7740604
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7840705
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.7980840
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.8090935
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.8221057
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.8371189
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:08.8531343
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:47.8996640
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:49.3490351
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:52.5379725
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:51:52.5539866
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:01.1099845
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:01.1239980
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:04.8434763
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:04.8765055
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:12.4585938
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:12.4776112
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:39.4157943
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:39.4628383
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:41.6648960
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:41.6829440
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:45.7667304
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:45.7827458
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:45.8047680
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:54.8121867
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:52:54.8782955
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:03.7825772
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.5376912
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.5647173
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.5877380
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.6628082
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.6778222
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.7488887
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.7619016
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.7789167
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.7929310
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8109471
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8259615
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8459802
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8599933
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8760083
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.8910219
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.9060356
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.9210500
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:13.9380659
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:53:38.1416935
+CONTENT:: could not insert: [Placement_Application.Entity_Student#215][SQL: INSERT INTO placeme_student (COLLEGE_ID, STUDENT_NAME, GENDER, BRANCH, EMAIL, CONTACT, BATCH, DEGREE, STUDENT_ID) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+INNER EXCEPTION:: Duplicate entry '779' for key 'COLLEGE_ID'
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:12.2245528
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:12.3076304
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:14.3735625
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:14.3935804
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:14.4065934
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:14.4566398
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:16.1702413
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:16.1852573
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:16.9840036
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:17.0020192
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:18.9888762
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:19.0999942
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:21.1679136
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:21.1899342
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:21.2019450
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:21.2589987
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:24.1186720
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:24.1406922
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:26.4848840
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:31.6607220
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:31.6757357
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:31.6987592
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:35.2430717
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:35.2630900
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:35.2771039
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:54:38.5431575
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:55:54.3050272
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:55:55.7253156
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:20.1471375
+CONTENT:: Entering method getCompanyByName(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:20.2312153
+CONTENT:: getCompanyByName method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:20.2442283
+CONTENT:: Entering method saveNewCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:20.7066601
+CONTENT:: saveNewCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:23.5543230
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:23.5993651
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:29.7351005
+CONTENT:: Entering method updateCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:29.8361966
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:29.9162694
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:37.8566923
+CONTENT:: Entering method updateCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:37.9117442
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:37.9788612
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:42.3338776
+CONTENT:: Entering method updateCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:42.3949594
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:42.4499862
+CONTENT:: updateCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:54.5212706
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 02:56:54.5973422
+CONTENT:: deleteCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:20:32.5908056
+CONTENT:: Utility(sendMail) => Failure sending mail.
+INNER EXCEPTION:: Unable to connect to the remote server
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:47.4560380
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:51.3467225
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:55.7828233
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:56.4635070
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:58.0809712
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:35:58.7616537
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:04.5870520
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:05.2116363
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:07.6929563
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:08.3546145
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:39.6258073
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:43.0790796
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:43.9868837
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:44.0038996
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:44.5714779
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:48.8724504
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:48.8864647
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:36:49.4560336
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:28.1501679
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:28.1631805
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:28.7657446
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:31.3841915
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:31.3982067
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:37:31.9787469
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:16.5604243
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:20.2068338
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:21.2728291
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:21.2878424
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:21.9495289
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:32.9497453
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:32.9647586
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:38:33.5983537
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:14.7518218
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:19.0148086
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:20.2269397
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:20.2439560
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:20.8145530
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:22.9965287
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:23.0105418
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 22:39:23.5630587
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:07:22.4054707
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:07:26.1419632
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:08:48.8612907
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:08:52.5187568
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:08:54.0241170
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:08:54.6687277
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:09:20.4498207
+CONTENT:: Entering method addNewUser(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:09:24.3685868
+CONTENT:: addNewUser method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:09:24.5906912
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:09:25.2813786
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:10:52.1835754
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:10:55.2374841
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:17.5012416
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:19.3680382
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:38.3777578
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:39.6409390
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:46.9468152
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:47.6013810
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:11:59.4224323
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:12:00.2061658
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:12:00.2281880
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:12:01.5213933
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:12:26.2995563
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:12:26.9371921
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:07.2033292
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:10.7616543
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:16.8943869
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:32.3698541
+CONTENT:: could not execute query
+[ SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE this_.STAFF_ID > ? ]
+Positional parameters:  #0>1400
+[SQL: SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE this_.STAFF_ID > ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:38.0771906
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:19:38.2473485
+CONTENT:: could not execute query
+[ SELECT distinct this_.DEGREE as y0_, this_.BATCH as y1_ FROM placeme_student this_ WHERE exists (SELECT distinct this_0_.BATCH as y0_ FROM placeme_student this_0_) ]
+[SQL: SELECT distinct this_.DEGREE as y0_, this_.BATCH as y1_ FROM placeme_student this_ WHERE exists (SELECT distinct this_0_.BATCH as y0_ FROM placeme_student this_0_)]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:23:26.1383851
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:23:29.9649643
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:23:41.0182951
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:23:56.2995803
+CONTENT:: could not execute query
+[ SELECT distinct this_.DEGREE as y0_, this_.BATCH as y1_ FROM placeme_student this_ WHERE exists (SELECT distinct this_0_.BATCH as y0_ FROM placeme_student this_0_) ]
+[SQL: SELECT distinct this_.DEGREE as y0_, this_.BATCH as y1_ FROM placeme_student this_ WHERE exists (SELECT distinct this_0_.BATCH as y0_ FROM placeme_student this_0_)]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:18.2991483
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:20.1368638
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:25.2246199
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:25.8782743
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:30.4695274
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:31.1151281
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:34.7865582
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:35.4332056
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:52.6112226
+CONTENT:: Entering method getCompanyByName(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:53.2598934
+CONTENT:: getCompanyByName method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:53.2778454
+CONTENT:: Entering method saveNewCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:24:58.5507750
+CONTENT:: saveNewCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:01.7197370
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:02.2853046
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:04.9157247
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:05.5783466
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:33.4374092
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:25:48.7436963
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>4
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:26.4611350
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:30.0594980
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:31.0254001
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:31.6389733
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:35.7257933
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:36.3123421
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:37.0920697
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:37.6786205
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:39.0999488
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:39.6815362
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:41.6903699
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:42.2659067
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:44.5870782
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:45.1676683
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:48.8500613
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:28:49.4296039
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:03.2144915
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:18.5648392
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>4
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:24.4032975
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:24.6154959
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>6
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:26.5162740
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:26.7374792
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>5
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:29.4430083
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:29.6582095
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>4
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:35.4316078
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:35.6418039
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>6
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:39.6195219
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:39.8297180
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>6
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:47.7651366
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:47.9713289
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>4
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:51.1472991
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:29:51.3534911
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>3
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:35:52.3246710
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:35:55.8716431
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:01.8560431
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:02.4967246
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:03.7154351
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:04.3092453
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:06.1373392
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:36:06.7311518
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:09.7289623
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:13.1676173
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:14.2926010
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:14.8863597
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:15.9488708
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:16.5270043
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:20.8864286
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:21.4489796
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:23.4020863
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:23.9646434
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:25.7615179
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:26.3240494
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:27.9021360
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:28.5115749
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:32.6365663
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:37:33.2147553
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:01.8869100
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:01.9025355
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:02.4806683
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:22.7777809
+CONTENT:: Entering method filteredStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:23.4340385
+CONTENT:: filteredStudentList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:23.4340385
+CONTENT:: Entering method prepareStudentList(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:26.9340800
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:38:27.5747121
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:07.3720546
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:07.9501866
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:07.9814385
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:08.6220722
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:13.4659335
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:14.0753124
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:14.8409464
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:15.4659570
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:33.9192423
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:34.4818054
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:34.5130006
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:35.1224383
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:35.1380476
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:35.7630675
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:35.7942692
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:36.3880850
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:36.4192753
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:36.9974668
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:37.0286547
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:37.6224640
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:37.6536620
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:38.2162211
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:38.2318410
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:38.7943425
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:38.8099243
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:39.3724672
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:39:55.7800976
+CONTENT:: Entering method getDegreeWithBatch(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:40:13.7803075
+CONTENT:: getDegreeWithBatch method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:40:16.6397178
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:40:17.3272707
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:40:28.0929780
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:42:03.4286699
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:42:07.0588371
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:42:08.2776016
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:42:08.9182341
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:42:17.5902145
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:44:41.7170642
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:44:45.4160124
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:44:47.8222913
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:44:48.4941733
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:44:57.8380356
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:22.5883232
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:32.4790677
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:32.6353170
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:37.1822752
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:37.3228723
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:43.2448171
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:43.3854449
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:45:59.1356284
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:01.5419637
+CONTENT:: deleteCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:21.7921458
+CONTENT:: Entering method getCompanyByName(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:22.4797185
+CONTENT:: getCompanyByName method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:22.4952780
+CONTENT:: Entering method saveNewCompany(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:26.6672557
+CONTENT:: saveNewCompany method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:30.0433924
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:31.0902410
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:41.6060183
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:56.8405441
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:46:59.9655816
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:47:15.2001349
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:49:52.9098757
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:49:56.6286760
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:49:57.8786935
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:49:58.5662476
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:50:26.0352698
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:50:26.0508950
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:50:26.7227765
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:50:30.0509420
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:50:30.7071988
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 17/11/2016 00:00:00
+TIME:: 23:51:02.2706060
+CONTENT:: Entering method changeUserStatus(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:15:46.1260415
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:15:50.2363321
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:15:58.3301744
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:15:59.0801833
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:19.1272937
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:19.7679250
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:25.2523661
+CONTENT:: Entering method uploadPlacementData(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:26.5805064
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:30.7837252
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:32.1743231
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:32.1899462
+CONTENT:: Entering method loadTempData(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:33.0024576
+CONTENT:: loadTempData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:48.2058165
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:54.1433306
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:54.7527468
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:54.7839638
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:16:55.4715280
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:00.3621537
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:00.9715886
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:07.0497321
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:07.7216586
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:10.9872782
+CONTENT:: Entering method uploadPlacementData(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Warning: 0 : Could not kill query in timeout handler,  aborting connection. Exception was Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:32.0344024
+CONTENT:: Begin failed with SQL exception
+INNER EXCEPTION:: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:55.2377982
+CONTENT:: Entering method getCompanyNamesWithDetailId(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:17:55.9097069
+CONTENT:: getCompanyNamesWithDetailId method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:00.2222318
+CONTENT:: Entering method uploadPlacementData(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:02.9097644
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:05.6285441
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:06.8941863
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:06.9098110
+CONTENT:: Entering method loadTempData(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:07.5660691
+CONTENT:: loadTempData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:22.3631178
+CONTENT:: uploadPlacementData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:35.6289242
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:36.2695299
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:39.6758207
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:40.3164548
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:40.3320779
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:41.0039626
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:41.0195861
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:41.6914701
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:41.6914701
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:42.3164754
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:42.3321030
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:42.9571079
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:42.9727342
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:43.5977428
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:43.6133692
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:44.2383729
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:44.2540000
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:44.8946305
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:44.9102572
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:46.1758958
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:55.4572556
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:18:56.3635741
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:39.7631343
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:43.2967250
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:44.4217403
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:45.1404980
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:45.1717483
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:25:45.9530057
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:26:02.6875799
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:25.9813594
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:29.9970356
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:31.9033087
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:32.5595671
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:32.5751918
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:27:33.4033259
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:10.0288135
+CONTENT:: Entering method getPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:10.6538208
+CONTENT:: getPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:48.8263067
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:52.7113754
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:53.6176372
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:54.2270194
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:54.2583248
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:28:54.9927076
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:03.2896820
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:03.9302979
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:07.4928566
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:08.1178639
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:35.4864538
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:39.3174140
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:40.5518012
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:41.1455631
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:41.1768093
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:42.0206119
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:45.9737900
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:46.5831787
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:54.4426441
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:29:55.0520283
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:30:03.6927548
+CONTENT:: Entering method getNonPlacedStudentsBySearchKey(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:30:04.3021338
+CONTENT:: getNonPlacedStudentsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:38:57.0507551
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:39:01.1133513
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:39:02.5040238
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:39:03.1603130
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:39:03.1915657
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 00:39:03.8947011
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 22:59:36.4642558
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 22:59:40.3221039
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 22:59:42.9471355
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 22:59:43.6034462
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:01.4629769
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:02.1036636
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:02.1348641
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:03.5255589
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:32.5102648
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:33.1664746
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:33.1821666
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:00:34.4321720
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:01:50.7601770
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:01:54.5726774
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:01:54.5883021
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:01:56.4321294
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:02:37.0888000
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:02:40.8232222
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:02:40.8232222
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:02:42.1357917
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:05:06.1004299
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:05:09.5536459
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:05:10.7724010
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:05:11.3974237
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:05:50.2415821
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:06:06.0386402
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>6
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:06:36.5077969
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:06:36.7264998
+CONTENT:: could not execute query
+[ SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ? ]
+Positional parameters:  #0>2015 #1>B.TECH #2>5
+[SQL: SELECT count(this_.COMP_DETAILS_ID) as y0_ FROM placeme_placed_details this_ inner join placeme_company_details compdetail1_ on this_.COMP_DETAILS_ID=compdetail1_.COMP_DETAILS_ID WHERE compdetail1_.BATCH = ? and compdetail1_.DEGREE = ? and this_.COMP_DETAILS_ID = ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:13.7713190
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:17.4901116
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:19.1307558
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:19.8026402
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:21.8026629
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:22.4589185
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:26.0058358
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:26.6308440
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:29.1933739
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:29.8340355
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:41.7247706
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:07:42.3497792
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:02.6253401
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:06.2972662
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:08.8757515
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:09.5161089
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:09.5473032
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:10.2348642
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:10.2661278
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:10.9067473
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:10.9379449
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:11.5317283
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:11.5629551
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:12.1410838
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:12.1567089
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:12.7661442
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:12.7817175
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:13.4067767
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:13.4379743
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:14.0630258
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:14.0786072
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:14.6880238
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:21.7505714
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:22.3443682
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:22.3599544
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:23.3131463
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:36.0007417
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:36.7195241
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:46.9852993
+CONTENT:: Entering method loadStudentDetailsBySearchKey(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:47.5634280
+CONTENT:: loadStudentDetailsBySearchKey method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:52.6103091
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:20:53.2509979
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:06.5011540
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:21.9075278
+CONTENT:: could not execute query
+[ SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ? ]
+Positional parameters:  #0>1400
+[SQL: SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:28.1889087
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:28.4544796
+CONTENT:: could not execute query
+[ SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ? ]
+Positional parameters:  #0>1400
+[SQL: SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:39.9702496
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.vshost.exe Error: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:21:40.2358732
+CONTENT:: could not execute query
+[ SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ? ]
+Positional parameters:  #0>1400
+[SQL: SELECT this_.STAFF_ID as STAFF1_8_0_, this_.STAFF_NAME as STAFF2_8_0_, this_.PASSWORD as PASSWORD8_0_, this_.EMAIL as EMAIL8_0_, this_.CONTACT as CONTACT8_0_, this_.CREATED_ON as CREATED6_8_0_, this_.LAST_MODIFIED_ON as LAST7_8_0_, this_.ACCOUNT_ACTIVE as ACCOUNT8_8_0_, this_.CURRENT_BATCH as CURRENT9_8_0_, this_.CURRENT_DEGREE as CURRENT10_8_0_ FROM placeme_staff this_ WHERE not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and not exists (SELECT distinct this_0_.STAFF_ID as y0_ FROM placeme_user_notification this_0_ WHERE this_0_.STAFF_ID = this_.STAFF_ID) and this_.STAFF_ID > ?]
+INNER EXCEPTION:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:39.2108571
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:42.9140246
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:44.2109151
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:44.8046726
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:58.3829573
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 18/11/2016 00:00:00
+TIME:: 23:22:59.0860907
+CONTENT:: getUnusedUsersList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:57:30.2016200
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:57:33.6547865
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:57:35.4673096
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:57:36.0298655
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:58:03.3382769
+CONTENT:: Entering method addNewUser(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:58:06.9945661
+CONTENT:: addNewUser method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:58:07.1976511
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 09:58:07.8070872
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:01:23.4422846
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:01:27.1923826
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:01:30.5830049
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:01:31.4111912
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:01:57.8044864
+CONTENT:: Entering method addNewUser(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:01.8201675
+CONTENT:: addNewUser method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:02.0232423
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:02.6326768
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:27.3688549
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:28.0095421
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:28.0407409
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:02:29.2908070
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:01.9525726
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:02.5962906
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:14.5182942
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:15.1588963
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:21.4089693
+CONTENT:: Entering method deleteCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:22.7215421
+CONTENT:: deleteCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:32.2216367
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:32.8310209
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:35.5341373
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:36.1748253
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:39.8154363
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:40.4404968
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:44.8467466
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:45.4873790
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:47.0030230
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:47.6124563
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:50.1905874
+CONTENT:: Entering method getHiredStudentsCount(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:03:50.8156114
+CONTENT:: getHiredStudentsCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:04.9407312
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:05.6595185
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:08.4564011
+CONTENT:: Entering method getPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:09.1126972
+CONTENT:: getPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:09.1282810
+CONTENT:: Entering method getNonPlacedStudentCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:09.8002168
+CONTENT:: getNonPlacedStudentCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:09.8314671
+CONTENT:: Entering method getStudentBranchData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:10.5658013
+CONTENT:: getStudentBranchData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:10.5814269
+CONTENT:: Entering method getCompanyStatCount(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:11.1908618
+CONTENT:: getCompanyStatCount method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:11.2220618
+CONTENT:: Entering method getStudentCompanyData(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:11.8783664
+CONTENT:: getStudentCompanyData method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:11.8939433
+CONTENT:: Entering method getMonthlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:12.5502390
+CONTENT:: getMonthlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:12.5658220
+CONTENT:: Entering method getMonthlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:13.3940092
+CONTENT:: getMonthlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:13.4252112
+CONTENT:: Entering method getYearlyCompanyMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:14.0346453
+CONTENT:: getYearlyCompanyMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:14.0658421
+CONTENT:: Entering method getYearlyStudentMap(StatisticsManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:14.7221499
+CONTENT:: getYearlyStudentMap method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:53.7069304
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:04:54.3163649
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:05:13.3009096
+CONTENT:: Entering method getStaffByEmail(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:05:13.9415960
+CONTENT:: getStaffByEmail method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:05:13.9571680
+CONTENT:: Entering method updateStaffDetails(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:05:15.2228642
+CONTENT:: updateStaffDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:07:15.4910250
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:07:17.4189904
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:07:27.4659595
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:07:29.3097576
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:07.0601449
+CONTENT:: Entering method changeUserStatus(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:08.9352204
+CONTENT:: changeUserStatus method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:09.1382957
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:09.7477301
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:16.5758812
+CONTENT:: Entering method changeUserStatus(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:18.3259589
+CONTENT:: changeUserStatus method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:18.5290504
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:19.1540938
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:21.1541173
+CONTENT:: Entering method getUnusedUsersList(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:21.8884836
+CONTENT:: getUnusedUsersList method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:31.8729367
+CONTENT:: Entering method deleteUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:33.1386332
+CONTENT:: deleteUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:33.3573827
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:34.0292654
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:40.2636639
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:40.9199571
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:45.8418992
+CONTENT:: Entering method getPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:46.5138022
+CONTENT:: getPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:46.5449848
+CONTENT:: Entering method getNonPlacedStudents(StudentPlacedManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:47.2169230
+CONTENT:: getNonPlacedStudents method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:51.9200520
+CONTENT:: Entering method loadAllStudentsWithDetails(StudentManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:52.5763712
+CONTENT:: loadAllStudentsWithDetails method successfully executed at persistence layer
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:08:59.2170077
+CONTENT:: writeToExcel(Utility)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:09:15.0609444
+CONTENT:: Entering method loadAllBranches(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:09:15.0765691
+CONTENT:: Entering method getBranchesByDegree(NotificationManagerImpl)
+
+Placement_Application.vshost.exe Information: 0 : DATE:: 21/11/2016 00:00:00
+TIME:: 10:09:15.7484981
+CONTENT:: getBranchesByDegree method successfully executed at persistence layer
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:07:36.5820601
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.exe Error: 0 : Unable to connect to any of the specified MySQL hosts.
+Placement_Application.exe Error: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:07:52.8210601
+CONTENT:: Unable to connect to any of the specified MySQL hosts.
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:21.5575601
+CONTENT:: Entering method getStaffById(StaffManagerImpl)
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:23.7980601
+CONTENT:: getStaffById method successfully executed at persistence layer
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:26.2505601
+CONTENT:: Entering method loadAllCompanies(CompanyManagerImpl)
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:26.9600601
+CONTENT:: loadAllCompanies method successfully executed at persistence layer
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:32.8780601
+CONTENT:: Entering method loadAllUsers(StaffManagerImpl)
+
+Placement_Application.exe Information: 0 : DATE:: 03-01-2017 00:00:00
+TIME:: 18:08:33.1930601
+CONTENT:: loadAllUsers method successfully executed at persistence layer
+

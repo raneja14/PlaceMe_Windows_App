@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Placement_Application"
+                   namespace="Placement_Application">
+
+
+  <class name="Entity_Staff" table="placeme_staff" lazy="true">
+    <id name="staffId" column="STAFF_ID">
+      <generator class="hilo" >
+        <param name="table">placeme_mynextkey</param>
+        <param name="column">STAFF_NEXT_VALUE</param>
+        <param name="max_lo">1</param>
+      </generator>
+    </id>
+    <property name="staffName" column="STAFF_NAME"></property>
+    <property name="password" column="PASSWORD"></property>
+    <property name="email" column="EMAIL"></property>
+    <property name="phone" column="CONTACT"></property>
+    
+    <property name="createdOn" column="CREATED_ON"></property>
+    <property name="lastModifiedOn" column="LAST_MODIFIED_ON"></property>
+    <property name="isAccountActive" column="ACCOUNT_ACTIVE"></property>
+      
+    <component name="myConfigObj">
+       <property name="currentBatch" column="CURRENT_BATCH"/>
+       <property name="currentDegree" column="CURRENT_DEGREE"/>
+    </component>    
+  </class>
+
+</hibernate-mapping>

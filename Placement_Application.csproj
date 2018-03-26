@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAED3E3B-EF66-40E9-8614-B561AB847AC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Placement_Application</RootNamespace>
+    <AssemblyName>Placement_Application</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\lionheart14\Desktop\PlaceME_acet\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>PLaceMe</ProductName>
+    <PublisherName>RoarTekSolutions</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>lion.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>68681E9D3AF16A2442DE1AA370A43813B7E893C0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Placement_Application_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>Placement_Application_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_Bins\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_For_LazyLoading\LinFu\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Reference Assemblies\Microsoft\Sql\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_Bins\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_For_LazyLoading\LinFu\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="Spring.Aop">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_For_LazyLoading\Spring\Spring.Aop.dll</HintPath>
+    </Reference>
+    <Reference Include="Spring.Core">
+      <HintPath>..\..\..\NHibernate-3.0.0.GA-bin\Required_For_LazyLoading\Spring\Spring.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commons\Common.cs" />
+    <Compile Include="Commons\EnumData.cs" />
+    <Compile Include="Commons\Labels.cs" />
+    <Compile Include="Commons\UiColors.cs" />
+    <Compile Include="Commons\Utility.cs" />
+    <Compile Include="Commons\Validations.cs" />
+    <Compile Include="Components\MyListView.cs" />
+    <Compile Include="Components\MyMail.cs" />
+    <Compile Include="Components\MyConfiguration.cs" />
+    <Compile Include="Components\MyCriteria.cs" />
+    <Compile Include="Components\PlacementInfo.cs" />
+    <Compile Include="Components\Resolution.cs" />
+    <Compile Include="Controls\Control_Shortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Shortcuts.Designer.cs">
+      <DependentUpon>Control_Shortcuts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commons\Constant.cs" />
+    <Compile Include="Controls\Control_barGraph.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_barGraph.Designer.cs">
+      <DependentUpon>Control_barGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_ContactUs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_ContactUs.Designer.cs">
+      <DependentUpon>Control_ContactUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Criteria.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Criteria.Designer.cs">
+      <DependentUpon>Control_Criteria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Details.Designer.cs">
+      <DependentUpon>Control_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_DropFile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_DropFile.Designer.cs">
+      <DependentUpon>Control_DropFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_pieChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_pieChart.Designer.cs">
+      <DependentUpon>Control_pieChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Notify.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Notify.Designer.cs">
+      <DependentUpon>Control_Notify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Settings1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Settings1.Designer.cs">
+      <DependentUpon>Control_Settings1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_ManageDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_ManageDB.Designer.cs">
+      <DependentUpon>Dialog_ManageDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\Entity_UpdateScore.cs" />
+    <Compile Include="ListControls\ListControl_ViewUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListControls\ListControl_ViewUsers.Designer.cs">
+      <DependentUpon>ListControl_ViewUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Notification_template.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Notification_template.Designer.cs">
+      <DependentUpon>Notification_template.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\Persistence.cs" />
+    <Compile Include="DAO\PersistenceImpl.cs" />
+    <Compile Include="Dialogs\Dialog_Configure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_Configure.Designer.cs">
+      <DependentUpon>Dialog_Configure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_ForgotPassword.Designer.cs">
+      <DependentUpon>Dialog_ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_PlacementInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_PlacementInfo.Designer.cs">
+      <DependentUpon>Dialog_PlacementInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\DIalog_ProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\DIalog_ProgressBar.Designer.cs">
+      <DependentUpon>DIalog_ProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdatePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdatePassword.Designer.cs">
+      <DependentUpon>Dialog_UpdatePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdateUser.Designer.cs">
+      <DependentUpon>Dialog_UpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Domain\Entity_Company.cs" />
+    <Compile Include="Domain\Entity_CompanyDetails.cs" />
+    <Compile Include="Domain\Entity_StudentScore.cs" />
+    <Compile Include="Domain\Entity_PlacementDetails.cs" />
+    <Compile Include="Domain\Entity_Staff.cs" />
+    <Compile Include="Domain\Entity_Student.cs" />
+    <Compile Include="Domain\Entity_Notification.cs" />
+    <Compile Include="Domain\Entity_TempData.cs" />
+    <Compile Include="Domain\Entity_UserNotification.cs" />
+    <Compile Include="DTO\StatsDto.cs" />
+    <Compile Include="DTO\StudentPlacedDto.cs" />
+    <Compile Include="Forms\Form_Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Notification.Designer.cs">
+      <DependentUpon>Form_Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Statistics.Designer.cs">
+      <DependentUpon>Form_Statistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_ViewAllStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_ViewAllStudents.Designer.cs">
+      <DependentUpon>Form_ViewAllStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Home.Designer.cs">
+      <DependentUpon>Control_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Home.Designer.cs">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListControls\ListControl_CompanyView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListControls\ListControl_CompanyView.Designer.cs">
+      <DependentUpon>ListControl_CompanyView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListControls\ListControl_PlacementStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListControls\ListControl_PlacementStatus.Designer.cs">
+      <DependentUpon>ListControl_PlacementStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Login.Designer.cs">
+      <DependentUpon>Control_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_MyMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_MyMessageBox.Designer.cs">
+      <DependentUpon>Dialog_MyMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_RegisterCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_RegisterCompanies.Designer.cs">
+      <DependentUpon>Form_RegisterCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_UpdatePlacementStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_UpdatePlacementStatus.Designer.cs">
+      <DependentUpon>Form_UpdatePlacementStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdateStudentCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogs\Dialog_UpdateStudentCompany.Designer.cs">
+      <DependentUpon>Dialog_UpdateStudentCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_UserAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_UserAccount.Designer.cs">
+      <DependentUpon>Control_UserAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_ViewCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_ViewCompanies.Designer.cs">
+      <DependentUpon>Form_ViewCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_ViewCompany.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_ViewCompany.Designer.cs">
+      <DependentUpon>Control_ViewCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Control_Welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Control_Welcome.Designer.cs">
+      <DependentUpon>Control_Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Welcome.Designer.cs">
+      <DependentUpon>Form_Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListControls\ListControl_ResultList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListControls\ListControl_ResultList.Designer.cs">
+      <DependentUpon>ListControl_ResultList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commons\NHibernateHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\CompanyManager.cs" />
+    <Compile Include="Service\CompanyManagerImpl.cs" />
+    <Compile Include="Service\DbConfigManager.cs" />
+    <Compile Include="Service\DbConfigManagerImpl.cs" />
+    <Compile Include="Service\NotificationManager.cs" />
+    <Compile Include="Service\NotificationManagerImpl.cs" />
+    <Compile Include="Service\StaffManager.cs" />
+    <Compile Include="Service\StaffManagerImpl.cs" />
+    <Compile Include="Service\StatisticsManager.cs" />
+    <Compile Include="Service\StatisticsManagerImpl.cs" />
+    <Compile Include="Service\StudentManager.cs" />
+    <Compile Include="Service\StudentManagerImpl.cs" />
+    <Compile Include="Service\StudentPlacedManager.cs" />
+    <Compile Include="Service\StudentPlacedManagerImpl.cs" />
+    <EmbeddedResource Include="Controls\Control_Shortcuts.resx">
+      <DependentUpon>Control_Shortcuts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_barGraph.resx">
+      <DependentUpon>Control_barGraph.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_ContactUs.resx">
+      <DependentUpon>Control_ContactUs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Criteria.resx">
+      <DependentUpon>Control_Criteria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Details.resx">
+      <DependentUpon>Control_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_DropFile.resx">
+      <DependentUpon>Control_DropFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Home.resx">
+      <DependentUpon>Control_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_pieChart.resx">
+      <DependentUpon>Control_pieChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Notify.resx">
+      <DependentUpon>Control_Notify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Settings1.resx">
+      <DependentUpon>Control_Settings1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_ManageDB.resx">
+      <DependentUpon>Dialog_ManageDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListControls\ListControl_ViewUsers.resx">
+      <DependentUpon>ListControl_ViewUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Notification_template.resx">
+      <DependentUpon>Notification_template.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_Configure.resx">
+      <DependentUpon>Dialog_Configure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_ForgotPassword.resx">
+      <DependentUpon>Dialog_ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_PlacementInfo.resx">
+      <DependentUpon>Dialog_PlacementInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\DIalog_ProgressBar.resx">
+      <DependentUpon>DIalog_ProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_UpdatePassword.resx">
+      <DependentUpon>Dialog_UpdatePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_UpdateUser.resx">
+      <DependentUpon>Dialog_UpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Home.resx">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Notification.resx">
+      <DependentUpon>Form_Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Statistics.resx">
+      <DependentUpon>Form_Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_ViewAllStudents.ar-SA.resx">
+      <DependentUpon>Form_ViewAllStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_ViewAllStudents.resx">
+      <DependentUpon>Form_ViewAllStudents.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListControls\ListControl_CompanyView.resx">
+      <DependentUpon>ListControl_CompanyView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListControls\ListControl_PlacementStatus.resx">
+      <DependentUpon>ListControl_PlacementStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Login.resx">
+      <DependentUpon>Control_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_MyMessageBox.resx">
+      <DependentUpon>Dialog_MyMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_RegisterCompanies.resx">
+      <DependentUpon>Form_RegisterCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_UpdatePlacementStatus.resx">
+      <DependentUpon>Form_UpdatePlacementStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogs\Dialog_UpdateStudentCompany.resx">
+      <DependentUpon>Dialog_UpdateStudentCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_UserAccount.resx">
+      <DependentUpon>Control_UserAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_ViewCompanies.resx">
+      <DependentUpon>Form_ViewCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_ViewCompany.resx">
+      <DependentUpon>Control_ViewCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Control_Welcome.resx">
+      <DependentUpon>Control_Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Welcome.resx">
+      <DependentUpon>Form_Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListControls\ListControl_ResultList.resx">
+      <DependentUpon>ListControl_ResultList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Placement_Application_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Mapping\UpdateTempScore.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\upload-medium.png" />
+    <None Include="Resources\excel-medium.png" />
+    <None Include="Resources\power-button-off %283%29.png" />
+    <None Include="Resources\DeleteCross.png" />
+    <None Include="Resources\deleteBin.png" />
+    <None Include="Resources\bulbDelete.png" />
+    <None Include="Resources\delete-user.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\bulbDeactivate.png" />
+    <None Include="Resources\bulbActivate.png" />
+    <None Include="Resources\editUser.png" />
+    <None Include="Resources\addUser.png" />
+    <None Include="Resources\multiple-users.png" />
+    <EmbeddedResource Include="Mapping\TempData.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\settings-gears.png" />
+    <None Include="Resources\padlock.png" />
+    <EmbeddedResource Include="Mapping\UserNotification.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\notification_yellow.png" />
+    <None Include="Resources\notification_red.png" />
+    <None Include="Resources\notification_green.png" />
+    <None Include="Resources\notification_purple.png" />
+    <None Include="Resources\notification_gold.png" />
+    <None Include="Resources\notification_blue.png" />
+    <None Include="Resources\notification_top.png" />
+    <EmbeddedResource Include="Mapping\CompanyDetails.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\StudentScore.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\Notification.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\PlacementDetails.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\Company.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\Staff.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mapping\Student.hbm.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="hibernate.cfg.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="lion.ico" />
+    <None Include="Resources\web.png" />
+    <None Include="Resources\chat-comment-oval-speech-bubble-with-text-lines %282%29.png" />
+    <None Include="Resources\verification-of-delivery-list-clipboard-symbol %282%29.png" />
+    <None Include="Resources\sms-message %282%29.png" />
+    <None Include="Resources\positive-verified-symbol-of-a-clipboard %282%29.png" />
+    <None Include="Resources\motherboard-detail %282%29.png" />
+    <None Include="Resources\filter-outline %282%29.png" />
+    <None Include="Resources\bar-graph %282%29.png" />
+    <None Include="Resources\pie-chart-stats %282%29.png" />
+    <None Include="Resources\profit-chart %284%29.png" />
+    <None Include="Resources\spyglass %284%29.png" />
+    <None Include="Resources\excelfile2.png" />
+    <None Include="Resources\excelfile1.png" />
+    <None Include="Resources\excelfile.png" />
+    <None Include="Resources\dropbox.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\clipboard-with-pencil- %284%29.png" />
+    <None Include="Resources\eye %284%29.png" />
+    <None Include="Resources\update-business-user %284%29.png" />
+    <None Include="Resources\graduate-student-avatar %281%29.png" />
+    <None Include="Resources\3d-building %281%29.png" />
+    <None Include="Resources\3d-building %283%29.png" />
+    <None Include="Resources\update-arrow %281%29.png" />
+    <None Include="Resources\house-outline1.png" />
+    <None Include="Resources\pencil-edit-button %282%29.png" />
+    <None Include="Resources\save-icon %283%29.png" />
+    <None Include="Resources\profit-chart %283%29.png" />
+    <None Include="Resources\spyglass %283%29.png" />
+    <None Include="Resources\update-business-user %283%29.png" />
+    <None Include="Resources\notification-bell %283%29.png" />
+    <None Include="Resources\eye %283%29.png" />
+    <None Include="Resources\clipboard-with-pencil- %283%29.png" />
+    <None Include="Resources\check-mark %284%29.png" />
+    <None Include="Resources\cancel-music.png" />
+    <None Include="Resources\cancel-music %281%29.png" />
+    <None Include="Resources\house-key %282%29.png" />
+    <None Include="Resources\black-user-shape %282%291.png" />
+    <None Include="Resources\man-thinking %282%29.png" />
+    <None Include="Resources\send-symbol %283%29.png" />
+    <None Include="Resources\domain.png" />
+    <None Include="Resources\smartphone-call.png" />
+    <None Include="Resources\opened-email-envelope.png" />
+    <None Include="Resources\email-contacts %282%29.png" />
+    <None Include="Resources\men-couple-sitting-on-a-table-talking-about-business.png" />
+    <None Include="Resources\black.png" />
+    <None Include="Resources\elegant-man-saluting.png" />
+    <None Include="Resources\lion.png" />
+    <None Include="Resources\house-outline.png" />
+    <None Include="Resources\power-button-off.png" />
+    <None Include="Resources\computer-screen.png" />
+    <None Include="Resources\power-button-off %282%29.png" />
+    <None Include="Resources\settings-work-tool %282%29.png" />
+    <None Include="Resources\black-user-shape %282%29.png" />
+    <None Include="Resources\house-outline %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="hibernate.cfg.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

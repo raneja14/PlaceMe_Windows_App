@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory>
+    <property name="connection.driver_class">NHibernate.Driver.MySqlDataDriver</property>
+    <property name="dialect">NHibernate.Dialect.MySQLDialect</property>
+    <!--<property name="connection.connection_string">Database=placementdb(acet);Data Source=localhost;User Id=root;Password=lionheart14</property>-->
+    <property name="connection.connection_string">Database=placementdb(acet);Server=166.62.27.147;User ID=roartek_acet;Password=roartek_acet</property>
+  
+    
+    <property name="show_sql">false</property>
+    <property name="proxyfactory.factory_class">NHibernate.ByteCode.LinFu.ProxyFactoryFactory, NHibernate.ByteCode.LinFu</property>
+    <property name="adonet.batch_size">100</property>
+  </session-factory>
+</hibernate-configuration>

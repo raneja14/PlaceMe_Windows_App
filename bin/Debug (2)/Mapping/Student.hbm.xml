@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="Placement_Application"
+                   namespace="Placement_Application">
+
+  <class name="Entity_Student" table="placeme_student" lazy="true">
+    <id name="studentId" column="STUDENT_ID">
+      <generator class="hilo" >
+        <param name="table">placeme_mynextkey</param>
+        <param name="column">STUDENT_NEXT_VALUE</param>
+        <param name="max_lo">0</param>
+      </generator>
+    </id>
+    <property name="collegeId" column="COLLEGE_ID"></property>
+    <property name="studentName" column="STUDENT_NAME"></property>
+    <property name="gender" column="GENDER"></property>
+    <property name="branch" column="BRANCH"></property>
+    <property name="email" column="EMAIL"></property>
+    <property name="phone" column="CONTACT"></property>
+    <component name="myConfigObj">
+      <property name="currentBatch" column="BATCH"/>
+      <property name="currentDegree" column="DEGREE"/>
+    </component>
+    <set name="placedDetailsObj" lazy="true" cascade="delete" inverse="false">
+    <key column="STUDENT_ID" />
+      <one-to-many class="Entity_PlacementDetails"/>
+    </set>
+
+    <one-to-one name="scoreObj" cascade="delete" class="Entity_StudentScore" lazy="proxy" constrained="true" foreign-key="none">
+    </one-to-one>
+    
+  </class>
+
+</hibernate-mapping>
